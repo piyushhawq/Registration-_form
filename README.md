@@ -2,9 +2,9 @@
 
 Hosted Link :- https://piyushhawq.github.io/Formm-validation/
 
-Home Page :-
+Preview :-
 
-![Preview  of Home Page](https://raw.githubusercontent.com/piyushhawq/Images/main/Home%20page%20of%20digiplus.png)
+![Preview  of Home Page](https://raw.githubusercontent.com/piyushhawq/Images/main/Form%20Validation.png)
 
 ## Available Scripts
 
